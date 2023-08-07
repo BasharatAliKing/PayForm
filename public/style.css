@@ -1,0 +1,13 @@
+.container{
+    margin: 30px auto;
+    width: 60%;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #EFF6F6;
+}
+h1{
+    text-align: center;
+}
+label{
+    margin-top: 30px;
+}
